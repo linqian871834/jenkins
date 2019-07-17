@@ -1,0 +1,11 @@
+127.0.0.1 localhost
+
+172.26.2.162	satex-02
+172.26.2.161    satex-01
+
+172.26.2.162	sata
+<<<<<<< HEAD
+file is modified on gittub
+=======
+test from gittub
+>>>>>>> secondbranch
